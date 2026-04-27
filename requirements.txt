@@ -1,0 +1,9 @@
+google-cloud-bigquery
+google-generativeai
+pandas<3
+streamlit
+python-dotenv
+scipy
+db-dtypes
+plotly
+protobuf>=4.25.0
